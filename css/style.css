@@ -8,7 +8,7 @@
   overflow: auto;
 }
 
-.education-entry, .online-entry, .work-entry, .project-entry {
+.education-entry, .work-entry, .project-entry {
   padding-left: 5%;
   padding-right: 5%;
 }
@@ -117,13 +117,6 @@ a {
 /* TODO: Replace with image later */
 #header {
   background-color: #484848;
-}
-
-/* Added by Erika */
-
-.thumbnail {
-  max-width:220px;
-  border: 1px solid #cccccc;
 }
 
 .flex-box {
